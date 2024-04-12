@@ -1,34 +1,25 @@
-# To-Do App
+# To-Do Web App
 
 ## Overview
-To-Do App is a simple application for managing your tasks. It allows you to add, edit, mark as complete, and view your to-do items. The app is built in three ways: Command Line Interface (CLI), Graphical User Interface (GUI), and as a web app.
+To-Do Web App is a web deployment of a simple to-do application built using Streamlit. It allows users to manage their to-do lists directly through a web interface. Users can add new tasks, view existing tasks, and mark tasks as completed.
 
 ## Features
-- **Add**: Add a new to-do item to your list.
-- **Show**: View all the to-do items in your list.
-- **Edit**: Modify existing to-do items.
-- **Complete**: Mark a to-do item as complete.
+- **Add New To-Do**: Users can add new to-do items to the list.
+- **View To-Do List**: Users can view their existing to-do list.
+- **Mark To-Do as Completed**: Users can mark tasks as completed by checking the checkbox next to each item.
 
 ## Setup
 1. Clone the repository.
 2. Ensure Python 3.x is installed.
 3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Run the script using `python cli.py` for the Command Line Interface (CLI) version, `python gui.py` for the Graphical User Interface (GUI) version, or `streamlit run web.py` for the web app version.
+4. Run the web application using the command `streamlit run web.py` in the terminal.
 
 ## Usage
-1. For the Command Line Interface (CLI) version:
-   - Run the script using `python cli.py`.
-   - Follow the prompts to add, show, edit, complete, or exit.
-
-2. For the Graphical User Interface (GUI) version:
-   - Run the script using `python gui.py`.
-   - Use the GUI interface to add, edit, complete, or exit.
-
-3. For the web app version:
-   - Run the script using `streamlit run web.py`.
-   - Visit the provided URL in your browser.
-   - Enter a new to-do item and press Enter to add it.
-   - Check the box next to a to-do item to mark it as complete.
+1. After running the web application, you can access it through your browser.
+2. Enter a new to-do item in the text input field provided.
+3. Press Enter or wait for changes to be applied automatically.
+4. View your to-do list and mark tasks as completed by checking the checkboxes.
+5. To mark a task as completed, simply click on the checkbox next to it.
 
 ## Contributing
 Contributions are welcome! Here are some ways you can contribute to the project:
