@@ -1,7 +1,7 @@
-# Todo App Web Deployment
+# To-Do App Web Deployment
 
 ## Overview
-To-Do Web App is a web deployment of a simple to-do application built using Streamlit. It allows users to manage their to-do lists directly through a web interface. Users can add new tasks, view existing tasks, and mark tasks as completed. You can find it on [Todo Web App](https://emads22-todo-app-web-deployment-web-wv9oj2.streamlit.app/) .
+This is a web deployment of a simple to-do application built using Streamlit. It allows users to manage their to-do lists directly through a web interface. Users can add new tasks, view existing tasks, and mark tasks as completed. You can find it on [To-Do Web App](https://emads22-todo-app-web-deployment-web-wv9oj2.streamlit.app/) .
 
 ## Features
 - **Add New To-Do**: Users can add new to-do items to the list.
